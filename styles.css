@@ -1,0 +1,56 @@
+/* ibarra-real-nova-regular - latin */
+@font-face {
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/ibarra-real-nova-v20-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local(''),
+         url('../fonts/ibarra-real-nova-v20-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/ibarra-real-nova-v20-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/ibarra-real-nova-v20-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/ibarra-real-nova-v20-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/ibarra-real-nova-v20-latin-regular.svg#IbarraRealNova') format('svg'); /* Legacy iOS */
+}
+
+
+body {
+    background: #a5a5a5; font-family: 'Ibarra Real Nova';
+}
+
+
+nav {
+    font-family: 'Ibarra Real Nova';
+}
+
+
+h2 {
+    font-family: 'Ibarra Real Nova';
+}
+
+
+p {
+    font-family: 'Ibarra Real Nova';
+}
+
+
+.main_header {
+    text-align:center;  font-size:60pt
+}
+
+
+.vidstup {
+    margin-left:60px
+}
+
+
+.image-nice {
+    margin-bottom:40px
+}
+.top {
+    height:200px; width:100%; background:#a5a5a5; padding:60px
+}
+
+
+.big {
+    font-family: 'Ibarra Real Nova'; font-size:60pt
+}
