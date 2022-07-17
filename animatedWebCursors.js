@@ -1,7 +1,7 @@
 <!--
 
 var trailLength = 8 // The length of trail
-var path = "/images/cursor.gif"
+var path = "images/cursor.gif"
 
 var standardbody=(document.compatMode=="CSS1Compat")? document.documentElement : document.body
 var i,d = 0
